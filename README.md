@@ -1,8 +1,13 @@
 # Hi there! 👋 I'm Ujjwal Kumar
 
-![Coding GIF](hello.gif)
-
-I'm a **Senior Cloud Developer** with a strong focus on **infrastructure as code (IaC)**, including expertise in **Terraform, Packer, and Cloud SDKs**. Passionate about solving complex problems, creating intuitive developer tools, and exploring the latest technologies.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>I'm a <strong>Senior Cloud Developer</strong> with a strong focus on <strong>infrastructure as code (IaC)</strong>, including expertise in <strong>Terraform, Packer, and Cloud SDKs</strong>. Passionate about solving complex problems, creating intuitive developer tools, and exploring the latest technologies.</p>
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="hello.gif" alt="Coding GIF" style="max-width: 100%;">
+  </div>
+</div>
 
 ---
 
@@ -37,6 +42,10 @@ I'm a **Senior Cloud Developer** with a strong focus on **infrastructure as code
 
 ## 🌟 Featured Project
 
+### [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm)
+terraform provider for IBM cloud.
+### [packer-plugin-ibmcloud](https://github.com/IBM/packer-plugin-ibmcloud)
+packer plugin for IBM cloud images
 ### [Box Note Converter](https://github.com/ujjwal-ibm/boxtodocx)
 An open-source utility to convert Box Notes to DOCX format.
 
