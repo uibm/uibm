@@ -22,7 +22,7 @@
 ---
 
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ujjwal-ibm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=uibm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
 ---
 
