@@ -1,67 +1,46 @@
-# Hi there! 👋 I'm Ujjwal Kumar
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=500&multiline=true&center=true&width=600&height=110&lines=//+Ujjwal+Kumar;func+main()+{+cloud.Dev()+};&gt;&gt;&gt;+terraform+apply" />
+</h1>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <p>I'm a <strong>Senior Cloud Developer</strong> with a strong focus on <strong>infrastructure as code (IaC)</strong>, including expertise in <strong>Terraform, Packer, and Cloud SDKs</strong>. Passionate about solving complex problems, creating intuitive developer tools, and exploring the latest technologies.</p>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="hello.gif" alt="Coding GIF" style="max-width: 100%;">
-  </div>
-</div>
+<p align="center">
+  <i>Senior Cloud Developer · Terraform Guild Leader · IBM Cloud Specialist</i>
+</p>
 
----
-
-## 👩‍💻 About Me
-
-- 🌟 I specialize in **OpenAPI specifications, CLI tools, SDKs, Terraform, and Packer**.
-- 💻 Proficient in multiple programming languages including **Java, Python, Golang, and R Programming**.
-- 📚 Skilled in **Microservices Architecture, Cloud Computing, and Machine Learning**.
-- 🔧 Experienced in **CI/CD Pipelines, Kubernetes, and Infrastructure as Code (IaC)**.
-- 🌱 Currently exploring **Generative AI** and **Responsible AI** solutions.
-
----
-
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=uibm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+<p align="center">
+  <a href="mailto:ramuklawjju@outlook.com">
+    <img src="https://img.shields.io/badge/Email-ujjwal.kumar1@ibm.com-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ramuklawjju">
+    <img src="https://img.shields.io/badge/LinkedIn-UjjwalKumar-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/uibm">
+    <img src="https://img.shields.io/github/followers/uibm?label=GitHub&style=flat-square&logo=github" />
+  </a>
+</p>
 
 ---
 
+<table align="center">
+<tr>
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=uibm&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+  </td>
+  <td width="50%">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=uibm&theme=tokyonight&hide_border=true" width="100%" />
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uibm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+  </td>
+  <td width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uibm&theme=tokyonight&utcOffset=5" width="100%" />
+  </td>
+</tr>
+</table>
 
-## 🚀 Technical Skills
-
-### **Programming Languages**
-- Core Java, Advanced Java (JEE), Python, R Programming, Golang, Terraform, Packer
-
-### **Frameworks & Tools**
-- JSF (JSP, Servlets), Spring Boot, Kafka, ELK Stack
-
-### **Cloud Platforms**
-- AWS, PCF, GCP, Heroku, IBM Cloud
-
-### **DevOps**
-- CI/CD, Git, Jenkins, Docker, Kubernetes
-
-### **Web Development**
-- HTML, CSS, JavaScript, Node.js, AngularJS
-
----
-
-## 🌟 Featured Project
-
-### [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm)
-terraform provider for IBM cloud.
-### [packer-plugin-ibmcloud](https://github.com/IBM/packer-plugin-ibmcloud)
-packer plugin for IBM cloud images
-### [Box Note Converter](https://github.com/ujjwal-ibm/boxtodocx)
-An open-source utility to convert Box Notes to DOCX format.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uibm&theme=tokyo-night&area=true&hide_border=true" width="97%"/>
+</p>
 
 ---
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ramuklawjju)
-- [GitHub](https://github.com/uibm)
-
----
-
-
