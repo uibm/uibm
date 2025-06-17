@@ -23,24 +23,24 @@
 <table align="center">
 <tr>
   <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api?username=uibm&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=uibm&show_icons=true&theme=default&hide_border=true" width="100%"/>
   </td>
   <td width="50%">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=uibm&theme=tokyonight&hide_border=true" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=uibm&theme=default&hide_border=true" width="100%" />
   </td>
 </tr>
 <tr>
   <td width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uibm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uibm&layout=compact&theme=default&hide_border=true&langs_count=8" width="100%"/>
   </td>
   <td width="50%">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uibm&theme=tokyonight&utcOffset=5" width="100%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uibm&theme=default&utcOffset=5" width="100%" />
   </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uibm&theme=tokyo-night&area=true&hide_border=true" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uibm&theme=default&area=true&hide_border=true" width="97%"/>
 </p>
 
 ---
