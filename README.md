@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:ramuklawjju@outlook.com">
-    <img src="https://img.shields.io/badge/Email-ujjwal.kumar1@ibm.com-red?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-ramuklawjju@outlook.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ramuklawjju">
     <img src="https://img.shields.io/badge/LinkedIn-UjjwalKumar-blue?style=flat-square&logo=linkedin" />
