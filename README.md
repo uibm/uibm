@@ -60,10 +60,8 @@ An open-source utility to convert Box Notes to DOCX format.
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ramuklawjju)
-- [GitHub](https://github.com/ujjwal-ibm)
+- [GitHub](https://github.com/uibm)
 
 ---
 
-"Code is like humor. When you have to explain it, it’s bad." - Cory House
 
-Happy coding! 🎉
