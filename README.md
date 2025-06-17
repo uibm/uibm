@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <i>Senior Cloud Developer · Terraform Guild Leader · IBM Cloud Specialist</i>
+  <i>Senior Cloud Developer</i>
 </p>
 
 <p align="center">
